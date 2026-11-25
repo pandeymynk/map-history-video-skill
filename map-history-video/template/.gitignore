@@ -1,0 +1,10 @@
+node_modules
+.venv-tts
+out
+public/audio
+public/maps
+public/images
+public/shorts
+assets/*.jpg
+assets/music
+.DS_Store

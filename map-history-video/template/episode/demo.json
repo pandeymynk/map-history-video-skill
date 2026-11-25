@@ -1,0 +1,25 @@
+{
+ "title": "Demo: How Switzerland Got Rich",
+ "localVoice": "am_michael",
+ "localSpeed": 1.08,
+ "captions": false,
+ "guide": true,
+ "scenes": [
+  {
+   "type": "map", "focus": ["Switzerland", "Austria", "Germany"], "highlight": ["Switzerland"], "color": "#d52b1e", "date": "TODAY", "guide": false,
+   "flag": {"kind": "solid", "color": "#d52b1e"},
+   "narration": "Switzerland has no sea, no oil, and a lot of mountains. And yet it is one of the richest countries on Earth.",
+   "labels": [{"cue": "mountains", "text": "about 60% of it is the Alps", "y": 150}],
+   "shots": [
+    {"cue": "richest", "type": "info", "kind": "bars", "title": "income per person", "sub": "US$ a year, approx.", "items": [{"label": "Switzerland", "value": 100000, "color": "#d52b1e"}, {"label": "Germany", "value": 52000, "color": "#5d6470"}, {"label": "France", "value": 44000, "color": "#5d6470"}]}
+   ]
+  },
+  {"type": "title", "text": "CHAPTER 1 · A POOR MOUNTAIN LAND", "narration": "", "hold": 2},
+  {
+   "type": "map", "focus": ["Switzerland", "Austria", "Italy", "Germany"], "highlight": ["Switzerland"], "color": "#d52b1e", "date": "1800s",
+   "narration": "Two hundred years ago, it was a poor mountain country, and many Swiss left home to find work abroad.",
+   "markers": [{"cue": "mountain", "pos": [8.54, 47.37], "label": "Zurich"}],
+   "shots": [{"cue": "many", "type": "quote", "mood": "dark", "text": "Poor, landlocked, and losing its people.", "by": "Switzerland, 1800s"}]
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "title": "NO SEA, NO OIL / STILL RICH?!",
+ "shortTitle": ["NO SEA, NO OIL", "STILL RICH?!"],
+ "localVoice": "am_michael",
+ "localSpeed": 1.08,
+ "captions": false,
+ "guide": false,
+ "scenes": [
+  {"type": "map", "focus": ["Switzerland"], "highlight": ["Switzerland"], "color": "#d52b1e", "margin": 0.42, "caption": "SWITZERLAND",
+   "narration": "This country has no sea, no oil and a lot of mountains.", "shots": []},
+  {"type": "vs", "title": "INCOME PER PERSON", "unit": "US$ a year, approx.",
+   "left": {"name": "SWITZERLAND", "value": "$100K", "num": 100, "color": "#d52b1e"}, "right": {"name": "FRANCE", "value": "$44K", "num": 44, "color": "#5d6470"},
+   "narration": "Yet the average Swiss person earns more than twice as much as the average French person.", "shots": []},
+  {"type": "steps", "title": "HOW?",
+   "items": [{"text": "STABLE, NEUTRAL & SAFE", "cue": "stable"}, {"text": "SKILLED WORKERS", "cue": "skilled"}, {"text": "HIGH-VALUE PRODUCTS", "cue": "products"}],
+   "narration": "It stayed stable and neutral, trained skilled workers, and sold products the world pays extra for.", "shots": []}
+ ]
+}

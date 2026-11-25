@@ -1,0 +1,17 @@
+border=Haiti deforestation.jpg
+toussaint=Portrait de Toussaint Louverture, à cheval1.jpg
+battle=Battle for Palm Tree Hill.jpg
+dessalines=Jean-Jaques Dessalines (Fondateur de l'Independance d'Haiti).jpg
+trujillo=Rafael L. Trujillo en la silla presidencial (cropped).jpg
+duvalier=Dr. Francois Duvalier.jpg
+quake=Earthquake damage in Port-au-Prince 2010-01-15.jpg
+palace=Haitian national palace earthquake.jpg
+puntacana=2023 - Playa Bavaro Punta Cana - 01.jpg
+santodomingo=View of Santo Domingo Skyline.jpg
+citadelle=Citadelle Laferrière Aerial View.jpg
+fire1791=Fire in Saint-Domingo 1791, German copper engraving.jpg
+plantation=Plan général des habitations de la Plaine du Cul-de-Sac. .jpg
+columbus=Columbus landing on Hispaniola.JPG
+portauprince=Port-au-Prince Haiti 2008.JPG
+zonacolonial=Calle las Damas, Santo Domingo, Zona Colonial.jpg
+planter=Portrait de planteur colonial, XVIIIe siècle.jpg
